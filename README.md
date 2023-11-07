@@ -10,6 +10,5 @@ AI Assistant for Blind
 - From reading text aloud and transcribing spoken words to navigating to variuos web applications and managing files, it provides comprehensive support, enhancing independence and productivity for visually impaired individuals.
 
 
-
 1. Programming Language: Python
 2. API: OpenAI API
