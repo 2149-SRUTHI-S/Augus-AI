@@ -70,13 +70,16 @@ if __name__=='__main__':
                 webbrowser.open(site[1])
 
         if "the time" in query:
+            
             time=datetime.datetime.now().strftime('%I:%M %p')
             hour=datetime.datetime.now().strftime("%I")
             min=datetime.datetime.now().strftime("%M")
             print(time)
+            
             engine = pyttsx3.init()
             engine.say(f"The Time is{hour} hours {min} minutes")
             engine.runAndWait()
+            
         if  'who is' in query or 'tell me' in query:
 
             person=query.replace('who is','')
