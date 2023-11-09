@@ -16,7 +16,6 @@ import openai
 
 import datetime
 import wikipedia
-
 import pyjokes
 import pywhatkit
 
