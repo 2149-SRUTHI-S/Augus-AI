@@ -13,7 +13,6 @@ import pyttsx3
 import webbrowser
 
 import openai
-
 import datetime
 import wikipedia
 import pyjokes
