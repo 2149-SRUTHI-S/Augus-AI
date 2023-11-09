@@ -52,10 +52,13 @@ if __name__=='__main__':
     engine.runAndWait()
     while True:
         print("Listening.....")
+        
         query=takeCommand()
+        
         engine = pyttsx3.init()
         engine.say(query)
         engine.runAndWait()
+        
         sites=[["youtube","https://www.youtube.com"],["wikipedia","https://www.wikipedia.com"],
                ["Google","https://www.google.com"],["SkillRack","https://www.skillrack.com"]]
 
