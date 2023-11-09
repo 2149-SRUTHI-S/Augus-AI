@@ -33,6 +33,7 @@ def takeCommand():
             return query
         except Exception as e:
             return "Some Error Occurred,Sorry from Augus"
+            
 def run_jarvis(q):
 
     if 'play' in q:
