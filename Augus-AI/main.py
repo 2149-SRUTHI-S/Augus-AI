@@ -1,5 +1,6 @@
 # AUGUS AI - AI Assistant for Blind
 
+
 # Contributors:
 # Sruthi Sivasankararaj
 # Shrilakshmi
