@@ -31,7 +31,7 @@ def takeCommand():
             return "Some Error Occurred,Sorry from Augus"
             
 def run_jarvis(q):
-
+    
     if 'play' in q:
         song=q.replace('play',' ')
         print(song)
