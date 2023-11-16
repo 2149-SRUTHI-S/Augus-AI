@@ -2,7 +2,6 @@
 
 
 
-
 # By Sruthi Sivasankararaj
 
 import speech_recognition as sr
