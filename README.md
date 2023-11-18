@@ -1,5 +1,5 @@
 # Augus-AI
-AI Assistant for Blind 
+AI Assistant for Blind
 
 
 ![image](https://github.com/2149-SRUTHI-S/Augus-AI/assets/129876043/f6a436d6-a109-4d88-98a7-a4282899ad0f)
