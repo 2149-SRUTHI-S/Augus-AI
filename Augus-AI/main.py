@@ -1,4 +1,4 @@
-# AUGUS AI - AI Based Desktop Assistant for Blind
+# AUGUS AI - AI Based Desktop Assistant for Blind 
 # By Sruthi Sivasankararaj   
  
 import speech_recognition as sr
