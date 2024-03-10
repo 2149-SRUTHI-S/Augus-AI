@@ -2,7 +2,7 @@
 # By Sruthi Sivasankararaj                     
       
 import speech_recognition as sr         
-import os
+import os  
 import pyttsx3
 
 import webbrowser
