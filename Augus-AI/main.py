@@ -13,7 +13,6 @@ import wikipedia
 import pyjokes
 import pywhatkit
 
-
 def say(text):
     os.system(f"say {text}")
 
